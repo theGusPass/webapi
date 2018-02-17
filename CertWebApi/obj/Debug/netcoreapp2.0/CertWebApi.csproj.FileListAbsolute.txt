@@ -1,0 +1,11 @@
+C:\Users\sempreit\Documents\_study\Azure Developer Certification\codes\CertWebApi\CertWebApi\bin\Debug\netcoreapp2.0\CertWebApi.deps.json
+C:\Users\sempreit\Documents\_study\Azure Developer Certification\codes\CertWebApi\CertWebApi\bin\Debug\netcoreapp2.0\CertWebApi.runtimeconfig.json
+C:\Users\sempreit\Documents\_study\Azure Developer Certification\codes\CertWebApi\CertWebApi\bin\Debug\netcoreapp2.0\CertWebApi.runtimeconfig.dev.json
+C:\Users\sempreit\Documents\_study\Azure Developer Certification\codes\CertWebApi\CertWebApi\bin\Debug\netcoreapp2.0\CertWebApi.dll
+C:\Users\sempreit\Documents\_study\Azure Developer Certification\codes\CertWebApi\CertWebApi\bin\Debug\netcoreapp2.0\CertWebApi.pdb
+C:\Users\sempreit\Documents\_study\Azure Developer Certification\codes\CertWebApi\CertWebApi\obj\Debug\netcoreapp2.0\CertWebApi.csprojResolveAssemblyReference.cache
+C:\Users\sempreit\Documents\_study\Azure Developer Certification\codes\CertWebApi\CertWebApi\obj\Debug\netcoreapp2.0\CertWebApi.csproj.CoreCompileInputs.cache
+C:\Users\sempreit\Documents\_study\Azure Developer Certification\codes\CertWebApi\CertWebApi\obj\Debug\netcoreapp2.0\CertWebApi.AssemblyInfoInputs.cache
+C:\Users\sempreit\Documents\_study\Azure Developer Certification\codes\CertWebApi\CertWebApi\obj\Debug\netcoreapp2.0\CertWebApi.AssemblyInfo.cs
+C:\Users\sempreit\Documents\_study\Azure Developer Certification\codes\CertWebApi\CertWebApi\obj\Debug\netcoreapp2.0\CertWebApi.dll
+C:\Users\sempreit\Documents\_study\Azure Developer Certification\codes\CertWebApi\CertWebApi\obj\Debug\netcoreapp2.0\CertWebApi.pdb
